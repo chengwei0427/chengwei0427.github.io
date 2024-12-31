@@ -1,4 +1,4 @@
-### Hi, 👋 I'm Chengwei Zhao(赵成伟),Welcome to my personal page
+### Hi, 👋 I'm Chengwei Zhao,Welcome to my personal page
 
 
 [![](https://img.shields.io/badge/Bilibili-chengwei0019-brightgreen)](https://space.bilibili.com/38956861/video)
